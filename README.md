@@ -21,8 +21,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='file:///Users/mahdialsalami/Documents/codepathpreworkmahdialsalami.gif
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="codepathpreworkmahdialsalami.gif" title="Video Walkthrough" alt="Video Walkthrough" />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
