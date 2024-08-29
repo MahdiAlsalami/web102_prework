@@ -21,7 +21,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/e0b1f5a517e94410a61335ec09082fff?sid=0215b470-1cb4-47b2-97ce-837f84f32e2e' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![codepathprework](https://github.com/user-attachments/assets/b05b8dc3-44b7-4677-8736-b1607de3b8b1)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
